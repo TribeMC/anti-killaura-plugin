@@ -1,0 +1,8 @@
+name: AntiKillaura
+version: 1.0
+main: v3.Main
+description: AntiKillaura Plugin
+author: V3lop5
+commands:
+  spawnnpc:
+    description: Spawnt einen NPC 
